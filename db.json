@@ -1,0 +1,121 @@
+{
+  "Projects": [
+    {
+      "name": "Portfoilio",
+      "color": "pink",
+      "tasks": [
+        {
+          "id": "e996725d-43d2-463e-8f4f-e2d3908685e9",
+          "title": "ahmed",
+          "completed": false
+        },
+        {
+          "id": "feb7fe2f-6203-4271-8008-d6e52fcc19eb",
+          "title": "abouzaid",
+          "completed": false
+        },
+        {
+          "id": "84fa0168-b710-43e8-8508-237cb9e556a4",
+          "title": "abouzaid",
+          "completed": false
+        },
+        {
+          "id": "9f8a9492-deba-4af2-9c5b-88c84795c4e4",
+          "title": "asd",
+          "completed": false
+        },
+        {
+          "id": "45556d58-7d45-4767-8f24-9bca1eaf8d06",
+          "title": "asd",
+          "completed": false
+        }
+      ],
+      "date": "30/8/2023",
+      "people": [],
+      "id": 0
+    },
+    {
+      "name": "Design",
+      "color": "orange",
+      "tasks": [
+        {
+          "id": "6f0903bf-399e-4066-b5d4-90ad591e990d",
+          "title": "Ahmed",
+          "completed": false
+        },
+        {
+          "id": "65f62f78-93be-4166-9d76-008e930de291",
+          "title": "Haha",
+          "completed": false
+        },
+        {
+          "id": "51e510a2-ff0d-44de-bfa8-2371d49be5fb",
+          "title": "asd",
+          "completed": false
+        },
+        {
+          "id": "cfc63b3a-d770-401d-9d7f-b90ecb311e61",
+          "title": "",
+          "completed": false
+        },
+        {
+          "id": "9347e726-4b93-40bc-b84d-c5cc7cbe1b8b",
+          "title": "as",
+          "completed": false
+        },
+        {
+          "id": "a262e3cc-3ee8-47e6-b615-96f745af7212",
+          "title": "asd",
+          "completed": false
+        }
+      ],
+      "date": "31/8/2023",
+      "people": [],
+      "id": 1
+    },
+    {
+      "name": "E-commerse",
+      "color": "green",
+      "tasks": [
+        {
+          "id": "32d30a10-bd3a-43f1-bcbd-950c24a785f0",
+          "title": "Home Page",
+          "completed": false
+        },
+        {
+          "id": "cd3a02ce-f1a0-4bad-85e1-00ebea553b49",
+          "title": "Products",
+          "completed": false
+        },
+        {
+          "id": "7ea84ca1-972f-495a-8aff-c9433cc29bc0",
+          "title": "Contact Page",
+          "completed": false
+        }
+      ],
+      "date": "31/8/2023",
+      "people": [],
+      "id": 2
+    }
+  ],
+  "People": [
+    {
+      "id": 3,
+      "usename": "Abouzaid",
+      "Fname": "Ahmed",
+      "Lname": "Abouzaid",
+      "img": "",
+      "mail": "Abouzaid@gmail.com",
+      "gender": "male",
+      "age": "22",
+      "phone": "010234567890"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Ahmed Need to clean my room",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
